@@ -1,0 +1,12 @@
+/* 
+Element Name    =>  Target All Paragraphs 
+.Class Name     =>  Target All Classes with this name
+                    Whatever the element is
+*/
+p {
+	color: green;
+}
+
+p {
+	color: red;
+}

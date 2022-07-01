@@ -1,0 +1,22 @@
+.user-test {
+	color: red;
+}
+/*
+Check: https://elzero.org/css-formatting-guide/
+-------------------------------------------------
+                Naming Conventions
+                ------------------
+>>  Use 
+>>  Kebab Case
+>>  ex: this-is-kebab-case
+>>  Do Not Use
+>>  Camel Case
+>>  Snake Case
+>>  Do Not Start the identifier name with a number
+>>  Leave space between the end of the identifier name
+    and the left curly bracket
+>>  Leave space between the colon and the value
+>>  Place the right curly bracket on a new line
+>>  Either you uniformly leave spaces between selectors
+    or you don't leave spaces at all.
+*/

@@ -1,0 +1,25 @@
+/* Selector {
+    Property: Value;
+    Property2: Value;
+} */
+
+p {
+	color: red;
+	font-size: 40px;
+}
+
+/*
+If There is a class use:
+.class name {
+    Property: value;
+    Property2: value;
+}
+*/
+
+/*
+If There is an id use:
+#id name {
+    Property: value;
+    Property2: value;
+}
+*/

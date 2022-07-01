@@ -1,0 +1,24 @@
+/* Bad */
+.USERNAME {
+	color: red;
+}
+
+/* Bad */
+.UserName {
+	color: red;
+}
+
+/* Good */
+.user-name {
+	color: red;
+}
+
+/* Bad */
+.userName {
+	color: red;
+}
+
+/* Bad */
+.usernameprofile {
+	color: red;
+}
