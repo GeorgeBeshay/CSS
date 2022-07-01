@@ -15,7 +15,7 @@
 - ***Course Plan >*** [@ElZero.org Course Plan](https://elzero.org/study/css-2021-study-plan/)
 ***
 ## Course Progress 
-![5%](https://progress-bar.dev/5?title=Progress)
+![9%](https://progress-bar.dev/9?title=Progress)
 ***
 ## Course Tracking
 ### Lessons & Assignments Uploaded
@@ -25,4 +25,6 @@ Lessons From XX To YY ✅ <br>
 -->
 - Lessons From 01 To 04 ✅ <br>
 [Lessons Code](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_01_04) - [Assignments Solutions](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Assignments/L_01_04)
+- Lessons From 05 To 08 ✅ <br>
+[Lessons](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_05_08) - [Assignments Solutions](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Assignments/L_05_08) 
 ***
