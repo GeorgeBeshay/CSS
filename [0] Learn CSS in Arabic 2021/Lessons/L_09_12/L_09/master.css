@@ -1,0 +1,12 @@
+div {
+	background-color: #ddd;
+	padding: 10px;
+	width: 70%;
+	margin: auto;
+	/* border-width: 10px;
+    border-color: red black;
+    border-style: groove; */
+	border: 10px groove red;
+	border-top-color: black;
+	border-bottom-color: black;
+}

@@ -1,0 +1,10 @@
+div {
+	background-color: #ddd;
+	margin: 10px 0px;
+	/* display: none; */
+	/* visibility: visible; */
+}
+.first {
+	/* display: none; */
+	visibility: hidden;
+}

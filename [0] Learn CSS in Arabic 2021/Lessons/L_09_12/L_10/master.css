@@ -1,0 +1,12 @@
+div {
+	background-color: #ddd;
+	width: 300px;
+	padding: 10px;
+	border: black solid 10px;
+	outline: 10px red solid;
+	border-radius: 50px;
+	/*
+    Notice that in the new versions .. 
+    Outline will follow the border radius
+    */
+}
