@@ -1,0 +1,24 @@
+body {
+	background-color: palegoldenrod;
+}
+div {
+	display: inline-block;
+	background-color: #ddd;
+	margin: 5px;
+	padding: 5px;
+	outline: black 5px solid;
+}
+.S1 {
+	border: 5px red solid;
+}
+.S2 {
+	border: 5px blue solid;
+	border-left: 5px green solid;
+	border-right: 5px green solid;
+}
+.S3 {
+	border-top: 5px dashed red;
+	border-right: 5px dashed green;
+	border-bottom: 5px dashed blue;
+	border-left: 5px dashed yellow;
+}

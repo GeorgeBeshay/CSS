@@ -1,0 +1,21 @@
+body {
+	background-color: powderblue;
+}
+div {
+	background-color: #ddd;
+	width: 400px;
+	height: 50px;
+	padding: 30px;
+	margin: 70px;
+	outline: #ddd 20px solid;
+}
+.D1 {
+	border-left: 10px solid rgb(188, 9, 9);
+}
+.D2 {
+	visibility: hidden;
+	border-left: 10px solid rgb(188, 9, 9);
+}
+.D3 {
+	border-left: 10px solid rgb(1, 136, 91);
+}
