@@ -1,0 +1,29 @@
+.One {
+	border-bottom: 2px solid red;
+	color: red;
+}
+
+.Two {
+	border-bottom: 2px solid green;
+	color: green;
+}
+
+.Three {
+	border-bottom: 2px solid blue;
+	color: blue;
+}
+
+.Four {
+	border-bottom: 2px solid black;
+	color: black;
+}
+
+.One,
+.Two,
+.Three,
+.Four,
+p {
+	padding: 15px;
+	margin: 15px 0px;
+	background-color: #eee;
+}

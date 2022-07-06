@@ -1,0 +1,15 @@
+body {
+	background-color: cadetblue;
+}
+div {
+	background-color: #eee;
+	padding: 10px;
+	/* display: inline-block; */
+	/* width: 400px; */
+	/* min-width: 400px; */
+	/* max-width: 400px; */
+	/* height: 40px; */
+	/* min-height: 40px; */
+	/* max-height: 60px; */
+	width: fit-content;
+}

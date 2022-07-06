@@ -1,0 +1,13 @@
+div {
+	background-color: #eee;
+	width: 150px;
+	height: 150px;
+	margin: 20px auto;
+	border-radius: 6px;
+	/* overflow: visible; */
+	/* overflow: hidden; */
+	/* overflow: scroll; */
+	/* overflow: auto; */
+	/* overflow-y: hidden; */
+	overflow-x: hidden;
+}
