@@ -1,0 +1,10 @@
+div div.child span {
+	color: red;
+}
+div.parent span {
+	color: blue;
+}
+div.title,
+p {
+	color: green;
+}
