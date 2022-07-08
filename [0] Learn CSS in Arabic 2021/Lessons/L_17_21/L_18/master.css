@@ -1,0 +1,9 @@
+div {
+	background-color: #f9f9f9;
+	text-align: center;
+	/* text-align: right; */
+	direction: rtl;
+}
+img {
+	vertical-align: middle;
+}

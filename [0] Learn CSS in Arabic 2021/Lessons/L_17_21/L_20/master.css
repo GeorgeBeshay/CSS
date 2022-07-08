@@ -1,0 +1,11 @@
+div {
+	background-color: #f9f9f9;
+	letter-spacing: -2px;
+	text-transform: capitalize;
+	text-indent: 50px;
+	line-height: 1.6;
+	word-spacing: 100px;
+	width: 300px;
+	/* white-space: nowrap; */
+	word-break: break-word;
+}

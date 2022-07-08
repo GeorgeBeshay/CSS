@@ -1,0 +1,11 @@
+div {
+	text-transform: capitalize;
+	background-color: #eee;
+	width: 200px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+/* div:hover {
+    overflow: visible;
+} */
