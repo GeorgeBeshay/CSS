@@ -1,7 +1,7 @@
 a {
 	font-size: 80px;
 	font-family: sans-serif;
-	display: inline-block;
+	display: block;
 	background-color: rgb(3, 134, 134);
 	color: white;
 	text-align: center;
@@ -10,8 +10,5 @@ a {
 	width: 350px;
 	text-decoration: none;
 	border-bottom: 30px solid rgb(3, 81, 70);
-}
-body {
-	text-align: center;
-	margin: 300px;
+	margin: auto;
 }
