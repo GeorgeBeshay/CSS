@@ -1,0 +1,13 @@
+div {
+	background-color: rgb(180, 229, 229);
+	font-size: 18px;
+	font-family: sans-serif;
+	padding: 30px;
+	margin: 40px;
+	width: 400px;
+}
+.two {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
