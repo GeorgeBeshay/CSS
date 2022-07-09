@@ -1,0 +1,23 @@
+body {
+	font-size: 5vw;
+}
+
+div {
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+}
+
+.A {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+.B {
+	font-family: "Cairo", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+.C {
+	font-family: "Jomhuria", cursive;
+}

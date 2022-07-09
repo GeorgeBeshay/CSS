@@ -1,0 +1,28 @@
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 3vw;
+}
+
+div {
+	text-align: center;
+	padding: 10px;
+	/* border: 3px solid orangered; */
+	border: 3px solid rgb(1, 194, 175);
+	margin: 30px;
+}
+
+.A {
+	text-align: center;
+	padding: 10px;
+	/* border: 3px solid orangered; */
+	border: 3px solid orangered;
+	margin: 30px;
+}
+
+p {
+	background-color: #ddd;
+	padding: inherit;
+	border: inherit;
+	margin: inherit;
+}
