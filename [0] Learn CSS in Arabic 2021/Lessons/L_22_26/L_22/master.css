@@ -1,0 +1,23 @@
+body {
+	text-transform: capitalize;
+	font-family: sans-serif;
+}
+
+div {
+	text-align: center;
+	padding: 20px;
+	background-color: #eee;
+	font-size: 20px;
+	border: 2px solid red;
+}
+
+/* h3 {
+    text-align: left;
+} */
+
+p {
+	border: 2px solid;
+	border-radius: 1px;
+	border-color: inherit;
+	padding: inherit;
+}

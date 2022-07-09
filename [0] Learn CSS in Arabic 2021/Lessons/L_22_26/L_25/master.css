@@ -1,0 +1,28 @@
+/*
+    Font Style
+    Font Variant
+    Font Weight
+*/
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 3vw;
+}
+
+div {
+	font-style: italic;
+	/* font-style: normal; */
+	font-variant: small-caps;
+	text-align: center;
+}
+
+p {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	text-indent: 150px;
+}

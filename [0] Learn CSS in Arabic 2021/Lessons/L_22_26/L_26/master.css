@@ -1,0 +1,22 @@
+/*
+    Font Style
+    Font Variant
+    Font Weight
+*/
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 3vw;
+}
+
+button {
+	background-color: transparent;
+	border: none;
+	color: red;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+p {
+	cursor: grab;
+}

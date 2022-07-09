@@ -1,0 +1,22 @@
+/*
+    Font Family
+    Search For:
+        fonts.google.com
+*/
+
+div {
+	background-color: #ddd;
+	padding: 10px;
+	text-transform: capitalize;
+	font-size: 30px;
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+}
+
+/* .san-ser {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.with-ser {
+	font-family: "Times New Roman", Times, serif;
+} */

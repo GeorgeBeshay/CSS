@@ -1,0 +1,37 @@
+/*
+    CSS Units
+    - px
+    - em            => Time 
+    - rem           => Root Time
+    - percentage    => Percentage from Father's FS.
+    - vw
+
+    Read
+    - vmin
+    - vh
+
+    1em = 16px      - FALSE
+    Default Font Size For WebPage = 16px
+*/
+html {
+	font-size: 100px;
+}
+
+body {
+	font-size: 40px; /* Won't be Inhertied by Div */
+}
+
+div {
+	/* font-size: 20px; */
+	font-size: 3vw;
+}
+
+span {
+	/* font-size: 2em;  */
+	/* 2 * Inherited Font Size = 40 */
+	/* font-size: 2rem; */
+	/* 2 * 100 = 200 px */
+	/* Root is the Html Tag, in which the default FS is 16px */
+	font-size: 200%;
+	/* Percentage From The Father Div FS */
+}
