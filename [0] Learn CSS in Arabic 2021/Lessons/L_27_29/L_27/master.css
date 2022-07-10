@@ -1,0 +1,31 @@
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 2vw;
+}
+
+/*
+    Float
+    Clear
+*/
+
+.parent {
+	background-color: red;
+	padding: 10px;
+    /* overflow: hidden; */     
+    /* height: 60px; */
+}
+
+.parent div {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	background-color: #eee;
+	width: 25%;
+    height: 100px;
+	float: left;
+}
+
+.clear {
+    clear: both;
+}

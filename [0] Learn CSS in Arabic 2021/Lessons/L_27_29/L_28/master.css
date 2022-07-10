@@ -1,0 +1,30 @@
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 2vw;
+	margin: 0;
+}
+
+/*
+    Float
+    Clear
+*/
+
+div {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	background-color: #eee;
+	float: left;
+	/* width: 17.6%; */
+	width: calc((100% - 60px) / 5);
+	margin-left: 10px;
+}
+
+/*
+    Content Width = 100%
+    Spaces = 15px
+    6 Spaces = 90px
+    Remaining = 100% - 90px
+    Element = (100%-90px) / 5 
+*/

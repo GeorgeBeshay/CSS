@@ -1,0 +1,14 @@
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 2vw;
+}
+
+.one {
+	background-color: red;
+	opacity: 0.1;
+}
+
+.two {
+	background-color: rgb(255, 0, 0, 0.1);
+}
