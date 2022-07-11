@@ -1,0 +1,26 @@
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+}
+
+div {
+	margin: 20px auto;
+	width: 300px;
+	font-weight: bold;
+	font-size: 1.5rem;
+	padding: 20px;
+	background-color: rgb(199, 196, 196);
+	color: black;
+}
+
+.normal {
+	opacity: 1;
+}
+
+.one {
+	opacity: 0.5;
+}
+
+.two {
+	opacity: 0.1;
+}

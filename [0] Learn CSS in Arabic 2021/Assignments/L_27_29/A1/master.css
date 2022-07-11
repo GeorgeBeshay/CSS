@@ -1,0 +1,45 @@
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.3vw;
+	text-transform: capitalize;
+	text-align: center;
+	padding: 0px;
+}
+
+p {
+	margin-top: 0px;
+	margin-left: 15px;
+	padding: 15px 0px;
+	float: left;
+	background-color: #ddd;
+}
+
+.Grandfather {
+	width: 800px;
+	background-color: #eee;
+	margin-left: calc((100% - 800px) / 2);
+	margin-top: 100px;
+}
+
+.clear {
+	clear: both;
+}
+
+.one {
+	margin-top: 15px;
+	width: calc(100% - 30px);
+}
+
+.oneThird p {
+	width: calc((100% - 60px) / 3);
+}
+
+.oneHalf p {
+	width: calc((100% - 45px) / 2);
+}
+
+.oneQuarter p {
+	margin-bottom: 15px;
+	width: calc((100% - 75px) / 4);
+}
