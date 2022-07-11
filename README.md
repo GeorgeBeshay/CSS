@@ -36,5 +36,5 @@ Lessons From XX To YY ✅ <br>
 - Lessons From 22 To 26 ✅ <br>
 [Lessons](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_22_26) - [Assignments Solutions](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Assignments/L_22_26)
 - Lessons From 27 To 29 ✅ <br>
-[Lessons](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_27_29) - <!-- [Assignments Solutions]() 
-*** -->
+[Lessons](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_27_29) - [Assignments Solutions](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Assignments/L_27_29) 
+*** 
