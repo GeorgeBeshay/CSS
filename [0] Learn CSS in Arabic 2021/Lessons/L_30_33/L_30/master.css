@@ -1,0 +1,53 @@
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 2vw;
+	min-height: 5000px;
+}
+
+/*
+    Position:
+        - Static (Default)
+        - Relative (self-relative)
+        - Absolute
+        - Fixed
+        - Sticky
+*/
+
+div {
+	color: white;
+	width: 150px;
+	padding: 10px;
+}
+
+.one {
+	background-color: #8ecae6;
+	/* position: static; */
+	/* top: 100px; */
+	/* position: relative;
+    top: 100px; */
+	/* position: absolute; */
+	position: fixed;
+	right: 0px;
+	bottom: 0px;
+	/* margin: 0 0 0 200px; */
+}
+
+.two {
+	background-color: #219ebc;
+	/* margin: 100px; */
+}
+
+.parent {
+	width: 500px;
+	height: 300px;
+	background-color: #023047;
+	position: relative;
+}
+
+.sticky {
+	background-color: #fb8500;
+	width: 100%;
+	position: sticky;
+	top: 10px;
+}

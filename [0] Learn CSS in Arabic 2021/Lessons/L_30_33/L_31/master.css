@@ -1,0 +1,50 @@
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 2vw;
+}
+
+div {
+	color: white;
+	padding: 10px;
+	width: 150px;
+	text-align: center;
+	position: absolute;
+	display: inline-block;
+}
+
+.one {
+	background-color: #1d3557;
+	top: 30px;
+	left: 30px;
+}
+
+.two {
+	background-color: #457b9d;
+	top: 20px;
+	left: 20px;
+}
+
+.three {
+	background-color: #a8dadc;
+}
+
+.four {
+	background-color: #344e41;
+	left: 330px;
+	top: 30px;
+	z-index: 3;
+}
+
+.five {
+	background-color: #3a5a40;
+	left: 320px;
+	top: 20px;
+	z-index: 2;
+}
+
+.six {
+	background-color: #588157;
+	left: 310px;
+	z-index: 1;
+}
