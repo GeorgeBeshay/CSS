@@ -40,3 +40,96 @@ Lessons From XX To YY ✅ <br>
 - Lessons From 30 To 33 ✅ <br>
 [Lessons](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_30_33) - [Assignments Solutions](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Assignments/L_30_33)
 *** 
+## <p align="center"> Direct Links To Preview The Final Webpages Created In Each Lesson & Assignment </p>
+### <p align="center"> Lessons </p>
+| [Lesson (02) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_01_04/L_02/index.html) |
+[Lesson (03) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_01_04/L_03/index.html) |
+[Lesson (04) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_01_04/L_04/index.html) |
+[Lesson (05) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_05_08/L_05/index.html) |
+[Lesson (06) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_05_08/L_06/index.html) |
+[Lesson (07) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_05_08/L_07/index.html) |
+[Lesson (08) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_05_08/L_08/index.html) |
+[Lesson (09) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_09_12/L_09/index.html) |
+[Lesson (10) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_09_12/L_10/index.html) |
+[Lesson (11) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_09_12/L_11/index.html) |
+[Lesson (12) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_09_12/L_12/index.html) |
+[Lesson (13) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_13_16/L_13/index.html) |
+[Lesson (14) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_13_16/L_14/index.html) |
+[Lesson (15) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_13_16/L_15/index.html) |
+[Lesson (16) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_13_16/L_16/index.html) |
+[Lesson (17) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_17_21/L_17/index.html) |
+[Lesson (18) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_17_21/L_18/index.html) |
+[Lesson (19) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_17_21/L_19/index.html) |
+[Lesson (20) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_17_21/L_20/index.html) |
+[Lesson (21) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_17_21/L_21/index.html) |
+[Lesson (22) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_22_26/L_22/index.html) |
+[Lesson (23) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_22_26/L_23/index.html) |
+[Lesson (24) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_22_26/L_24/index.html) |
+[Lesson (25) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_22_26/L_25/index.html) |
+[Lesson (26) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_22_26/L_26/index.html) |
+[Lesson (27) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_27_29/L_27/index.html) |
+[Lesson (28) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_27_29/L_28/index.html) |
+[Lesson (29) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_27_29/L_29/index.html) |
+[Lesson (30) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_30_33/L_30/index.html) |
+[Lesson (31) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_30_33/L_31/index.html) |
+[Lesson (32) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_30_33/L_32/index.html) |
+[Lesson (33) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_30_33/L_33/index.html) |
+<!-- [Lesson (34) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_34_37/L_34/index.html) |-->
+<!-- [Lesson (35) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_34_37/L_35/index.html) |-->
+<!-- [Lesson (36) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_34_37/L_36/index.html) |-->
+<!-- [Lesson (37) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_34_37/L_37/index.html) |-->
+<!-- [Lesson (38) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_38_41/L_38/index.html) |-->
+<!-- [Lesson (39) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_38_41/L_39/index.html) |-->
+<!-- [Lesson (40) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_38_41/L_40/index.html) |-->
+<!-- [Lesson (41) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_38_41/L_41/index.html) |-->
+<!-- [Lesson (42) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_42/index.html) |-->
+<!-- [Lesson (43) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_43/index.html) |-->
+<!-- [Lesson (44) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_44/index.html) |-->
+<!-- [Lesson (45) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_45/index.html) |-->
+<!-- [Lesson (46) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_46/index.html) |-->
+<!-- [Lesson (47) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_47/index.html) |-->
+<!-- [Lesson (48) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_48/index.html) |-->
+<!-- [Lesson (49) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_49/index.html) |-->
+<!-- [Lesson (50) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_50/index.html) |-->
+<!-- [Lesson (51) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_51/index.html) |-->
+<!-- [Lesson (52) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_52/index.html) |-->
+<!-- [Lesson (53) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_53/index.html) |-->
+<!-- [Lesson (54) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_54_56/L_54/index.html) |-->
+<!-- [Lesson (55) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_54_56/L_55/index.html) |-->
+<!-- [Lesson (56) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_54_56/L_56/index.html) |-->
+<!-- [Lesson (57) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_57_64/L_57/index.html) |-->
+<!-- [Lesson (58) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_57_64/L_58/index.html) |-->
+<!-- [Lesson (59) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_57_64/L_59/index.html) |-->
+<!-- [Lesson (60) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_57_64/L_60/index.html) |-->
+<!-- [Lesson (61) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_57_64/L_61/index.html) |-->
+<!-- [Lesson (62) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_57_64/L_62/index.html) |-->
+<!-- [Lesson (63) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_57_64/L_63/index.html) |-->
+<!-- [Lesson (64) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_57_64/L_64/index.html) |-->
+<!-- [Lesson (65) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_65_67/L_65/index.html) |-->
+<!-- [Lesson (66) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_65_67/L_66/index.html) |-->
+<!-- [Lesson (67) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_65_67/L_67/index.html) |-->
+<!-- [Lesson (68) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_68_73/L_68/index.html) |-->
+<!-- [Lesson (69) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_68_73/L_69/index.html) |-->
+<!-- [Lesson (70) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_68_73/L_70/index.html) |-->
+<!-- [Lesson (71) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_68_73/L_71/index.html) |-->
+<!-- [Lesson (72) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_68_73/L_72/index.html) |-->
+<!-- [Lesson (73) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_68_73/L_73/index.html) |-->
+<!-- [Lesson (74) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_74_77/L_74/index.html) |-->
+<!-- [Lesson (75) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_74_77/L_75/index.html) |-->
+<!-- [Lesson (76) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_74_77/L_76/index.html) |-->
+<!-- [Lesson (77) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_74_77/L_77/index.html) |-->
+<!-- [Lesson (78) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_78/index.html) |-->
+<!-- [Lesson (79) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_79/index.html) |-->
+<!-- [Lesson (80) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_80/index.html) |-->
+<!-- [Lesson (81) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_81/index.html) |-->
+<!-- [Lesson (82) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_82/index.html) |-->
+<!-- [Lesson (83) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_83_85/L_83/index.html) |-->
+<!-- [Lesson (84) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_83_85/L_84/index.html) |-->
+<!-- [Lesson (85) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_83_85/L_85/index.html) |-->
+<!-- [Lesson (86) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_86_88/L_86/index.html) |-->
+<!-- [Lesson (87) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_86_88/L_87/index.html) |-->
+<!-- [Lesson (88) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_86_88/L_88/index.html) |-->
+
+***
+### <p align="center"> Assignments </p>
+***
