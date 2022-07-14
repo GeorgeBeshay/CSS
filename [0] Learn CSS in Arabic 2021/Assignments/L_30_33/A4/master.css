@@ -1,0 +1,43 @@
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.3vw;
+	background-color: #252422;
+	color: #f5f3f4;
+	zoom: 100%;
+}
+
+table {
+	width: 700px;
+	border: 5px solid #161a1d;
+	border-radius: 5px;
+	position: relative;
+	left: 300px;
+	text-align: center;
+}
+
+thead tr td {
+	border: 5px solid #e5383b;
+	border-radius: 5px;
+	background-color: #660708;
+	font-weight: bold;
+	font-style: italic;
+}
+
+td {
+	min-width: calc(700px / 5);
+	border: 5px solid #dc2f02;
+	border-radius: 5px;
+	background-color: #6a040f;
+}
+
+button {
+	padding: 5px;
+	margin: 5px;
+	color: white;
+	background-color: #004e64;
+}
+
+.delete-button {
+	background-color: #8d0801;
+}

@@ -1,0 +1,38 @@
+/* 
+Note: 
+    Colors Used Are Not The Given Colors in the Assignment.
+    A Colors Palette is Used.
+*/
+
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.3vw;
+	background-color: #252422;
+	color: #fffcf2;
+	zoom: 100%;
+}
+
+.Father {
+	list-style: none;
+	margin: 15px;
+	padding: 10px;
+	width: 100%;
+	background-color: #403d39;
+}
+
+li {
+	background-color: #eb5e28;
+	padding: 10px;
+	margin: 10px;
+}
+
+li ul {
+	list-style-position: inside;
+}
+
+.grand-father {
+	width: 40%;
+	position: relative;
+	left: 30%;
+}

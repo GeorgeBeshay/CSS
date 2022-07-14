@@ -1,0 +1,65 @@
+/* 
+Note: 
+    Colors Used Are Not The Given Colors in the Assignment.
+    A Colors Palette is Used.
+*/
+
+body {
+	font-family: "Alfa Slab One", cursive;
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.4vw;
+	background-color: #5f0f40;
+	zoom: 130%;
+}
+
+div {
+	background-color: #fb8b24;
+	color: white;
+	padding: 10px;
+	width: calc(600px - calc(2 * 10px) - calc(2 * 8px));
+	position: absolute;
+	left: calc((100% - 600px) / 2);
+	top: calc(100% / 3);
+	border: 8px solid #0f4c5c;
+	border-bottom-color: #9a031e;
+	border-top-color: #9a031e;
+	border-radius: 10px;
+}
+
+span {
+	background-color: #001219;
+	width: 22px;
+	height: 22px;
+	display: block;
+	border: 4px solid #001219;
+	position: absolute;
+	text-align: center;
+}
+
+.top-left {
+	top: -19px;
+	left: -19px;
+	border-right-color: #9a031e;
+	border-bottom-color: #0f4c5c;
+}
+
+.top-right {
+	top: -19px;
+	right: -19px;
+	border-left-color: #9a031e;
+	border-bottom-color: #0f4c5c;
+}
+
+.bottom-left {
+	top: calc(100% - 11px);
+	left: -19px;
+	border-top-color: #0f4c5c;
+	border-right-color: #9a031e;
+}
+
+.bottom-right {
+	top: calc(100% - 11px);
+	right: -19px;
+	border-top-color: #0f4c5c;
+	border-left-color: #9a031e;
+}
