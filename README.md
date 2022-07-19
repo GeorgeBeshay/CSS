@@ -15,7 +15,7 @@
 - ***Course Plan >*** [@ElZero.org Course Plan](https://elzero.org/study/css-2021-study-plan/)
 ***
 ## Course Progress 
-![38%](https://progress-bar.dev/38?title=Progress)
+![42%](https://progress-bar.dev/42?title=Progress)
 ***
 ## Course Tracking
 ### Lessons & Assignments Uploaded
