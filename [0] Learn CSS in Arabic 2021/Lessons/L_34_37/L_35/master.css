@@ -1,0 +1,36 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #d4a373;
+	color: #344e41;
+}
+
+/*
+	Pseudo Elements
+*/
+
+.one span {
+	display: inline-block;
+	background-color: #faedcd;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.two::first-letter {
+	display: inline-block;
+	background-color: #faedcd;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.three::first-line {
+	font-weight: bold;
+	color: crimson;
+}
+
+.four::selection {
+	color: black;
+	background-color: cadetblue;
+}

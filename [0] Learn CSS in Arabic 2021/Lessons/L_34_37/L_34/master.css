@@ -1,0 +1,50 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #231942;
+	color: #e0b1cb;
+}
+
+.one {
+	background-color: #5e548e;
+}
+
+.two {
+	background-color: #e2fdff;
+	width: 100px;
+	height: 100px;
+}
+
+a {
+	color: #e0b1cb;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #e29578;
+}
+
+.ch:checked + label {
+	color: #d90429;
+}
+
+a:visited {
+	color: #fca311;
+}
+
+div:empty {
+	border: 10px solid #e0b1cb;
+	border-radius: 2px;
+}
+
+.in {
+	border-radius: 1px;
+	border: 4px solid #f77f00;
+}
+
+.in:focus {
+	height: 40px;
+	outline: none;
+	border-width: 10px;
+	border-color: #d62828;
+}
