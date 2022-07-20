@@ -1,0 +1,40 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #432818;
+	color: #ffe6a7;
+}
+
+p {
+	position: relative;
+	width: 600px;
+	height: 30px;
+	background-color: #99582a;
+	padding: 20px;
+	margin: 20px auto;
+	border-left: 10px solid #6f1d1b;
+}
+
+p::before {
+	position: absolute;
+	content: attr(data-person);
+	display: inline-block;
+	text-align: center;
+	width: 70px;
+	background-color: #bb9457;
+	padding: 10px;
+	left: -120px;
+	top: 12px;
+}
+
+p::after {
+	position: absolute;
+	content: "";
+	width: 0;
+	height: 0;
+	top: 50%;
+	left: -40px;
+	margin-top: -15px;
+	border: 15px solid;
+	border-color: transparent #6f1d1b transparent transparent;
+}

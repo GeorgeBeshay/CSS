@@ -1,0 +1,30 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.6vw;
+	background-color: #2f3e46;
+	color: #cad2c5;
+}
+
+p {
+	position: relative;
+	width: fit-content;
+	height: 40px;
+	margin: 20px auto;
+	padding: 20px;
+	text-align: center;
+	font-style: italic;
+	background-color: #84a98c;
+	border-right: #52796f solid 10px;
+	counter-increment: my-counter;
+}
+
+p::before {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	padding: inherit;
+	content: counter(my-counter);
+	top: 0;
+	left: -80px;
+	background-color: #354f52;
+}
