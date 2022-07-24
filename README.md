@@ -88,10 +88,10 @@ Lessons From XX To YY ✅ <br>
 [Lesson (39) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_38_41/L_39/index.html) |
 [Lesson (40) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_38_41/L_40/index.html) |
 [Lesson (41) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_38_41/L_41/index.html) |
-<!-- [Lesson (42) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_42/index.html) |-->
-<!-- [Lesson (43) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_43/index.html) |-->
-<!-- [Lesson (44) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_44/index.html) |-->
-<!-- [Lesson (45) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_45/index.html) |-->
+[Lesson (42) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_42/index.html) |
+[Lesson (43) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_43/index.html) |
+[Lesson (44) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_44/index.html) |
+[Lesson (45) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_42_45/L_45/index.html) |
 <!-- [Lesson (46) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_46/index.html) |-->
 <!-- [Lesson (47) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_47/index.html) |-->
 <!-- [Lesson (48) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_46_53/L_48/index.html) |-->
