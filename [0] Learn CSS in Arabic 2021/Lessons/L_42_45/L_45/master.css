@@ -1,0 +1,51 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #081c15;
+	color: #d8f3dc;
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+/*
+	Css Variables
+		- Global Variable
+		- Local Variable
+	Function To Use Variable:
+		var(Variable Name, Fallback Value)
+*/
+
+:root {
+	--mainColor: #74c69d;
+	--mainPadding: 20px;
+}
+
+.main {
+	background-color: var(--mainColor, black);
+	color: white;
+	padding: calc(10px + var(--mainPadding));
+}
+
+h2 {
+	color: var(--mainColor, black);
+	background-color: white;
+	padding: var(--mainPadding);
+}
+
+p {
+	color: var(--mainColor, black);
+	border: 2px solid var(--mainColor, black);
+	padding: var(--mainPadding);
+}
+
+a:hover {
+	color: var(--mainColor, black);
+}
+
+.local {
+	--mainColor: red;
+	background-color: var(--mainColor);
+}

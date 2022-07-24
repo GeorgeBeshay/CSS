@@ -1,0 +1,52 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #0c1713;
+	color: #d9d0de;
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+/*
+	The Margin Collapse
+	[1] Only Vertical Margin Collapse
+	[2] Bigger Margin Wins
+	[3] Margin Collapsing With Elements Without
+		any elements between them
+	[4] Nesting won't prevent margin collapse.
+*/
+
+.parent {
+	overflow: hidden;
+	background-color: #ab4967;
+	width: 400px;
+	height: 200px;
+	padding: 10px;
+	margin: 40px auto;
+}
+
+.parent .one,
+.parent .two {
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+
+.one {
+	background-color: #bc8da0;
+}
+
+.up {
+	background-color: #fec5bb;
+	height: 80px;
+	margin-bottom: 40px;
+}
+
+.down {
+	background-color: #fec89a;
+	height: 80px;
+	margin-top: 20px; /* No Effect */
+}

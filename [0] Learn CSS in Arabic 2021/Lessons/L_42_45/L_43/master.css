@@ -1,0 +1,23 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #242423;
+	color: #e8eddf;
+}
+
+.one {
+	width: 200px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	padding: 10px;
+	margin: 20px auto;
+}
+
+.one {
+	background-color: #333533 !important;
+}
+
+.one {
+	background-color: blue;
+}

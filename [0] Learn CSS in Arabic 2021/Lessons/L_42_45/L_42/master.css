@@ -1,0 +1,43 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #252422;
+	color: #fffcf2;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.one {
+	background-color: #403d39;
+	width: 200px;
+	height: 100px;
+	text-align: center;
+	padding: 20px;
+	margin: 40px auto;
+	/* Short hand for all of the below */
+	transition: all 2s ease-in-out 0.001s;
+	/* transition-duration: 2s;
+    transition-delay: 0.001s;
+    transition-property: all;
+    transition-timing-function: ease-in-out; */
+	/* transition-property: width, height, padding; */
+	/* transition-timing-function: ease; */
+	/* transition-timing-function: linear; */
+	/* transition-timing-function: ease-in; */
+}
+
+.one:hover {
+	padding: 70px 100px;
+	text-shadow: 2px 2px black;
+	width: 400px;
+	height: 200px;
+	border: 5px solid red;
+	border-radius: 10px;
+	box-shadow: 5px 5px #ccc5b9;
+}
