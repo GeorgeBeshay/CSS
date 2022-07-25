@@ -1,0 +1,18 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #abc4ff;
+}
+
+:root {
+	--mainColor: #240046;
+	--mainPadding: 10px;
+}
+
+div {
+	width: 400px;
+	margin: 10px auto 0px;
+	border: 2px solid var(--mainColor, black);
+	color: var(--mainColor, red);
+	padding: var(--mainPadding, 10px);
+}

@@ -1,0 +1,47 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #283618;
+	color: #fefae0;
+}
+
+* {
+	padding: 0%;
+	margin: 0%;
+}
+
+.parent {
+	margin: 100px auto;
+	padding: 50px;
+	text-align: center;
+	width: 500px;
+	height: 200px;
+	background-color: #bc6c25;
+	-webkit-transition-duration: 0.5s;
+	-moz-transition-duration: 0.5s;
+	-ms-transition-duration: 0.5s;
+	-o-transition-duration: 0.5s;
+	transition-duration: 0.5s;
+}
+
+.child {
+	background-color: #dda15e;
+	margin: 50px auto;
+	padding: 20px;
+	width: 400px;
+	height: 50px;
+	-webkit-transition-duration: 0.5s;
+	-moz-transition-duration: 0.5s;
+	-ms-transition-duration: 0.5s;
+	-o-transition-duration: 0.5s;
+	transition-duration: 0.5s;
+	transition-delay: 0.5s;
+}
+
+.parent:hover {
+	margin: 60px auto;
+}
+
+.parent:hover .child {
+	margin: 80px auto;
+}
