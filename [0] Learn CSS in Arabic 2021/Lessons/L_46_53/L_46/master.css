@@ -1,0 +1,61 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #355070;
+	color: white;
+}
+
+/*
+	Flexible Box
+	For Parent:
+	- display: flex => To Change the display to Flexible Box.
+	- flex-direction: row => Default Value
+	- flex-wrap: nowrap => Default Value
+	- flex-flow: [Flex-Direction] + [Flex-Wrap]
+*/
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+.flex {
+	background-color: #e56b6f;
+	width: 600px;
+	padding: 20px;
+	margin: 20px auto;
+	display: flex;
+	flex-direction: row;
+	/* flex-direction: row-reverse; */
+	/* flex-direction: column; */
+	/* flex-direction: column-reverse; */
+	/* flex-wrap: wrap; */
+	/* flex-wrap: wrap-reverse; */
+	/* Short hand for flex-direction and flex-wrap */
+	/* height: 200px; */
+	/* flex-flow: column wrap-reverse; */
+}
+
+.flex div {
+	background-color: #eaac8b;
+	width: 25%;
+	text-align: center;
+	padding: 20px;
+}
+
+.float {
+	overflow: hidden;
+	background-color: #e56b6f;
+	width: 600px;
+	padding: 20px;
+	margin: 20px auto;
+}
+
+.float div {
+	background-color: #eaac8b;
+	float: left;
+	width: 25%;
+	text-align: center;
+	padding: 20px;
+}

@@ -1,0 +1,53 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #6d6875;
+	color: white;
+}
+
+/*
+	Flexible Box
+	For Child
+	- flex-grow: 0 => Default Value
+	- flex-shrink: 1 => Defualt Value
+	- order: 0 => Default Value
+	- flex-basis: auto => Default Value
+	"Short Hand"
+	- flex: [Flex-Grow] [Flex-Shrinnk] [Flex-Basis]
+
+*/
+
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+.flex {
+	/* display: inline-flex; */
+	display: flex;
+	background-color: #b5838d;
+	width: 1000px;
+	margin: 50px auto;
+	padding: 20px;
+	/* flex-flow: column; */
+}
+
+.flex div {
+	background-color: #ffcdb2;
+	display: flex;
+	width: 100px;
+	justify-content: center;
+	align-items: center;
+	margin-right: 10px;
+	/* margin-top: 10px; */
+}
+
+.two {
+	flex-basis: 200px;
+	flex: 2 200px;
+}
+
+.in {
+	display: inline-block;
+}

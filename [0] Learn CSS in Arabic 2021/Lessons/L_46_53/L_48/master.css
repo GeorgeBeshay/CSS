@@ -1,0 +1,108 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #355070;
+	color: white;
+}
+
+/*
+	Flexible Box
+	For Parent:
+	- display: flex => To Change the display to Flexible Box.
+	- flex-direction: row => Default Value
+	- flex-wrap: nowrap => Default Value
+	- flex-flow: [Flex-Direction] + [Flex-Wrap]
+	------- SEPARATOR -------
+	- justify-content: flex-start => Default value
+	- align-items: stretch => Default Value
+*/
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+.flex {
+	background-color: #e56b6f;
+	width: 600px;
+	padding: 20px;
+	margin: 20px auto;
+	display: flex;
+	flex-direction: row;
+	/* flex-direction: row-reverse; */
+	/* flex-direction: column; */
+	/* flex-direction: column-reverse; */
+	/* flex-wrap: wrap; */
+	/* flex-wrap: wrap-reverse; */
+	/* Short hand for flex-direction and flex-wrap */
+	/* height: 200px; */
+	/* flex-flow: column wrap-reverse; */
+	/* flex-flow: row wrap; */
+	/* justify-content: flex-end; */
+	/* justify-content: center; */
+	/* justify-content: space-between; */
+	/* justify-content: space-around; */
+	/* justify-content: space-evenly; */
+	align-items: center;
+}
+
+.flex div {
+	background-color: #eaac8b;
+	width: calc(100% / 3);
+	text-align: center;
+	padding: 20px;
+}
+
+.float {
+	overflow: hidden;
+	background-color: #e56b6f;
+	width: 600px;
+	padding: 20px;
+	margin: 20px auto;
+}
+
+.float div {
+	background-color: #eaac8b;
+	float: left;
+	width: calc(100% / 3);
+	text-align: center;
+	padding: 20px;
+}
+
+h3 {
+	background-color: #6d597a;
+	text-align: center;
+	width: 200px;
+	padding: 20px;
+	margin: 50px auto;
+	box-shadow: 5px 5px white;
+	border-radius: 5px;
+}
+
+/* .two {
+	margin-left: 1%;
+	margin-right: 1%;
+} */
+
+.one {
+	height: 80px;
+}
+
+.two {
+	height: 120px;
+}
+
+.center {
+	margin: 40px auto;
+	background-color: #6d597a;
+	width: 300px;
+	height: 100px;
+	/* padding: 20px; */
+	/* text-align: center; */
+	box-shadow: 5px 5px white;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
