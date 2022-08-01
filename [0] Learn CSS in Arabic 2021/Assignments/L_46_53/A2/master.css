@@ -1,0 +1,33 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #2b2d42;
+	color: #edf2f4;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+.parent {
+	background-color: #d90429;
+	display: flex;
+	width: 500px;
+	height: 400px;
+	margin: 100px auto;
+	padding-block: 10px;
+	justify-content: space-evenly;
+	align-content: space-between;
+	flex-wrap: wrap;
+}
+
+.parent div {
+	display: flex;
+	background-color: #8d99ae;
+	width: calc(500px / 3 - 20px);
+	height: 40px;
+	justify-content: center;
+	align-items: center;
+}

@@ -1,0 +1,53 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #344e41;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+.parent {
+	display: flex;
+	background-color: #588157;
+	margin: 150px auto;
+	padding: 10px;
+	width: 600px;
+	height: 300px;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.parent div {
+	background-color: #a3b18a;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 140px;
+	width: 100px;
+	border-style: solid;
+	border-color: #dad7cd;
+	border-radius: 5px;
+}
+
+.one {
+	order: 2;
+}
+
+.two {
+	order: 3;
+	align-self: flex-end;
+}
+
+.three {
+	order: 4;
+}
+
+.four {
+	order: 1;
+	align-self: flex-end;
+}

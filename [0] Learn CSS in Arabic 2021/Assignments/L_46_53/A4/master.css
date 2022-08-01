@@ -1,0 +1,42 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #184e77;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+.parent {
+	background-color: #34a0a4;
+	width: 600px;
+	height: 300px;
+	margin: 150px auto;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+}
+
+.parent div {
+	background-color: #b5e48c;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 80px;
+}
+
+.one,
+.three {
+	align-self: flex-end;
+	width: 50px;
+}
+
+.two {
+	align-self: flex-start;
+	width: 280px;
+}

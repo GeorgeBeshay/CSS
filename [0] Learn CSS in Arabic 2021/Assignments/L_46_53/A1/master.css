@@ -1,0 +1,25 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #432818;
+	color: #ffe6a7;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+div {
+	background-color: #99582a;
+	width: 200px;
+	height: 200px;
+	margin-block-start: 200px;
+	margin-inline: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 100px;
+	box-shadow: -15px 0px #bb9457, 15px 0px #fb8500;
+}
