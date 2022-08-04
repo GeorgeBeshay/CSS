@@ -1,0 +1,34 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #283618;
+	color: white;
+}
+
+/*
+	Filters
+*/
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+img {
+	margin: 75px 300px;
+	border: 5px solid white;
+	border-radius: 5px;
+	width: 800px;
+	height: 500px;
+	transition: 0.3s;
+	filter: grayscale(100%);
+	/* filter: blur(2px); */
+	/* filter: invert(100%); */
+}
+
+img:hover {
+	filter: grayscale(0%);
+	/* filter: blur(0px); */
+	/* filter: invert(0%); */
+}

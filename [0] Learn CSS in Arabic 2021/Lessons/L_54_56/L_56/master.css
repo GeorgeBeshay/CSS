@@ -1,0 +1,16 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	color: white;
+	background-color: #132a13;
+}
+
+input,
+p {
+	caret-color: red;
+}
+
+a:hover {
+	color: red;
+	pointer-events: none;
+}

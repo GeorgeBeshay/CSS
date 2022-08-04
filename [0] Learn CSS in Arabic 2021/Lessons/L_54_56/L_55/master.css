@@ -1,0 +1,58 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	color: white;
+	background-color: #283d3b;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*
+	Gradients
+	- linear-gradient(Direction || Angle, Color Stop 1, Color Stop 2, ....)
+*/
+
+.one {
+	background-image: linear-gradient(to right, red, green, blue, yellow, white);
+	width: 400px;
+	height: 200px;
+	margin: 50px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.two {
+	background-color: #772e25;
+	width: 400px;
+	height: 200px;
+	margin: 100px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+
+.two::before {
+	content: "";
+	position: absolute;
+	top: -5px;
+	left: 0px;
+	width: 100%;
+	height: 5px;
+	background-image: linear-gradient(
+		to right,
+		#2980b9 20%,
+		#27ae60 20%,
+		#27ae60 40%,
+		#d35400 40%,
+		#d35400 60%,
+		#8e44ad 60%,
+		#8e44ad 80%,
+		#c0392b 80%
+	);
+}
