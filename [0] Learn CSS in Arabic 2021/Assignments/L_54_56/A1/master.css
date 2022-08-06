@@ -1,0 +1,115 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 2vw;
+	background-color: #780000;
+	color: black;
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+div {
+	background-color: #fdf0d5;
+	width: 600px;
+	height: 75px;
+	text-align: center;
+	margin: 250px auto;
+	position: relative;
+	padding-top: 15px;
+	font-weight: bold;
+	font-style: italic;
+	letter-spacing: 2px;
+	border-right: 10px solid;
+	border-left: 10px solid;
+	border-left-color: #3d348b;
+	border-right-color: #ef476f;
+}
+
+div::first-letter {
+	color: red;
+}
+
+div::before {
+	content: "";
+	position: absolute;
+	left: -10px;
+	top: -10px;
+	width: calc(100% + 20px);
+	height: 10px;
+	background-image: linear-gradient(
+		to right,
+		#3d348b 20%,
+		#7678ed 20%,
+		#7678ed 40%,
+		#f7b801 40%,
+		#f7b801 60%,
+		#f18701 60%,
+		#f18701 80%,
+		#ef476f 80%
+	);
+}
+
+div::after {
+	content: "";
+	position: absolute;
+	bottom: 0px;
+	left: -10px;
+	width: calc(100% + 20px);
+	height: 10px;
+	background-image: linear-gradient(
+		to right,
+		#3d348b 20%,
+		#7678ed 20%,
+		#7678ed 40%,
+		#f7b801 40%,
+		#f7b801 60%,
+		#f18701 60%,
+		#f18701 80%,
+		#ef476f 80%
+	);
+}
+
+/* 
+	Another Solution Except That The First Letter Won't Work
+*/
+/* 
+div {
+	background-color: #fdf0d5;
+	width: 600px;
+	height: 75px;
+	margin: 250px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	background-image: linear-gradient(
+		to right,
+		#3d348b 20%,
+		#7678ed 20%,
+		#7678ed 40%,
+		#f7b801 40%,
+		#f7b801 60%,
+		#f18701 60%,
+		#f18701 80%,
+		#ef476f 80%
+	);
+}
+
+div::before {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	content: "Elzero";
+	position: absolute;
+	background-color: #590d22;
+	color: white;
+	font-style: italic;
+	width: calc(100% - 14px);
+	height: calc(100% - 14px);
+	left: 7px;
+	top: 7px;
+}
+*/
