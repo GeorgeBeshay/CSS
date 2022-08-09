@@ -1,0 +1,26 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #03071e;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.parent {
+	margin: 20px auto;
+	height: 500px;
+	background-color: #6a040f;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.parent div {
+	background-color: #d00000;
+	text-align: center;
+	padding: 30px;
+}

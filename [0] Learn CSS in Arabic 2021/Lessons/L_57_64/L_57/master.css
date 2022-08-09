@@ -1,0 +1,41 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1vw;
+	background-color: #03045e;
+	color: white;
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+/*
+	Grid
+	Parent
+	- display: grid | inline-grid
+	- grid-template-columns => [Number Of Columns in] => [Px, %, auto, repeat(), Mix]
+*/
+
+.parent {
+	margin: 20px auto;
+	width: 800px;
+	height: 500px;
+	background-color: #0077b6;
+	display: grid;
+	grid-template-columns: 25% 50% 25%;
+	/* grid-template-columns: auto auto auto auto; */
+	/* grid-template-columns: repeat(5, auto); */
+	/* grid-template-columns: 100px repeat(3, 50px) 25% repeat(2, auto); */
+	/* grid-template-columns: auto auto 1fr 1fr; */
+	/* Auto is Shy, Fraction is Greedy */
+}
+
+.parent div {
+	background-color: #48cae4;
+	padding: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}

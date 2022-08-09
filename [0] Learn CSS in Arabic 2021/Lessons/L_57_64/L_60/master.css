@@ -1,0 +1,71 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+.page {
+	border: 5px solid white;
+	border-radius: 5px;
+	height: 100vh;
+	padding: 20px;
+	display: grid;
+	background-color: #590d22;
+	color: black;
+	grid-template-columns: repeat(10, 1fr);
+	grid-template-rows: 50px auto 50px;
+	grid-template-areas:
+		"logo logo nav nav nav nav nav nav nav nav"
+		"cont cont cont cont cont cont cont side side side"
+		"foot foot foot foot foot foot foot foot foot foot";
+}
+
+h2 {
+	grid-area: logo;
+	background-color: #a4133c;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+nav {
+	grid-area: nav;
+	background-color: #ff4d6d;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	padding-top: 8px;
+}
+
+section {
+	grid-area: cont;
+	background-color: #ff8fa3;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+aside {
+	grid-area: side;
+	background-color: #ffb3c1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+footer {
+	grid-area: foot;
+	background-color: #ffccd5;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

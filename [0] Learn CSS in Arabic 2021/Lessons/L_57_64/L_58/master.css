@@ -1,0 +1,46 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1vw;
+	background-color: #03045e;
+	color: white;
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+/*
+	Grid
+	Parent
+	- display: grid | inline-grid
+	- grid-template-columns => [Number Of Columns in] => [Px, %, auto, fraction, repeat(), Mix]
+	- grid-template-rows => [Number Of Rows Height in] => [Px, %, auto, fraction, repeat(), Mix]
+	- gap: [Row Gap] [Column Gap]
+*/
+
+.parent {
+	margin: 20px auto;
+	width: 800px;
+	height: 500px;
+	background-color: #0077b6;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	/* grid-template-rows: 100px 200px 100px; */
+	/* grid-template-rows: 20% 60% 20%; */
+	/* grid-template-rows: 200px 1fr 1fr; */
+	grid-template-rows: repeat(3, 1fr);
+	/* row-gap: 20px; */
+	/* column-gap: 20px; */
+	/* Short Hand Method */
+	gap: 20px 20px; /* Row Gap Col Gap */
+}
+
+.parent div {
+	background-color: #48cae4;
+	padding: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
