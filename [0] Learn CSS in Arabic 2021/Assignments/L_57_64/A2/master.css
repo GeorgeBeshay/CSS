@@ -1,0 +1,115 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	/* background-color: #081c15; */
+	background-color: grey;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.layout {
+	padding: 5px;
+	height: 100vh;
+	display: grid;
+	grid-template-rows: 1fr 8fr 1fr;
+	grid-template-columns: repeat(8, 1fr);
+	grid-template-areas:
+		"head head head head head head head head"
+		"sec sec sec sec sec sec aside aside"
+		"foot foot foot foot foot foot foot foot";
+}
+
+header {
+	background-color: #780116;
+	grid-area: head;
+	padding: 10px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	transition: 200ms;
+	-webkit-transition: 250ms;
+	-moz-transition: 250ms;
+	-ms-transition: 250ms;
+	-o-transition: 250ms;
+}
+
+header::before {
+	content: "Header";
+}
+
+section {
+	background-color: #db7c26;
+	grid-area: sec;
+	padding: 10px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	transition: 200ms;
+	-webkit-transition: 200ms;
+	-moz-transition: 200ms;
+	-ms-transition: 200ms;
+	-o-transition: 200ms;
+}
+
+section::before {
+	content: "Section";
+}
+
+aside {
+	background-color: #c32f27;
+	grid-area: aside;
+	padding: 10px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	transition: 200ms;
+	-webkit-transition: 250ms;
+	-moz-transition: 250ms;
+	-ms-transition: 250ms;
+	-o-transition: 250ms;
+}
+
+aside::before {
+	content: "Aside";
+}
+
+footer {
+	background-color: #0a100d;
+	grid-area: foot;
+	padding: 10px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	transition: 200ms;
+	-webkit-transition: 200ms;
+	-moz-transition: 200ms;
+	-ms-transition: 200ms;
+	-o-transition: 200ms;
+}
+
+footer::before {
+	content: "Footer";
+}
+
+/*
+	Extra
+*/
+
+header:hover,
+section:hover,
+aside:hover,
+footer:hover {
+	z-index: 1;
+	margin: -5px;
+	border: 5px solid white;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+}

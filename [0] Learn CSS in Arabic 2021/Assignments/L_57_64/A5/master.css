@@ -1,0 +1,44 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #3c1518;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.grid {
+	background-color: #69140e;
+	padding: 20px;
+	margin: 50px auto;
+	width: 800px;
+	height: 400px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 30px 30px;
+	row-gap: calc(400px - 60px - 40px);
+	column-gap: 20px;
+	border: 2px solid white;
+}
+
+.grid div {
+	background-color: #a44200;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 2px solid white;
+	transition: 250ms;
+	-webkit-transition: 250ms;
+	-moz-transition: 250ms;
+	-ms-transition: 250ms;
+	-o-transition: 250ms;
+}
+
+.grid div:hover {
+	margin: -10px;
+	border-color: #4caf50;
+}
