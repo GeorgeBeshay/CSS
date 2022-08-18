@@ -1,0 +1,52 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #011627;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+div {
+	margin: 100px auto;
+	width: 300px;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #e71d36;
+	border-radius: 5px;
+	border: 1px solid white;
+	position: relative;
+}
+
+div::after,
+div::before {
+	content: "";
+	width: 300px;
+	height: 200px;
+	border-radius: 5px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: -1;
+	transition: 4s;
+}
+
+div::before {
+	transform: rotate(7deg);
+	background-color: #41af4b;
+}
+
+div::after {
+	transform: rotate(-7deg);
+	background-color: #41ead4;
+}
+
+div:hover::after {
+	transform: rotate(353deg);
+}
