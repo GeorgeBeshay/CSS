@@ -1,0 +1,40 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #606c38;
+	color: white;
+}
+
+/* 
+	2D Transform
+	- scaleX
+	- scaleY
+	- scale
+*/
+
+.shape {
+	margin: 200px auto;
+	width: 200px;
+	height: 200px;
+	background-color: #dda15e;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shape div {
+	width: 180px;
+	height: 180px;
+	background-color: rgb(255 0 0 / 39%);
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: bold;
+	font-size: 30px;
+	-webkit-transform: scaleX(-1);
+	-moz-transform: scaleX(-1);
+	-ms-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
