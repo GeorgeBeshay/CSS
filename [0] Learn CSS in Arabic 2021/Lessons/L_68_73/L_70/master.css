@@ -1,0 +1,74 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: black;
+	color: black;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/*
+	transform-origin
+	Syntax
+	Default Values => 50% 50% 0
+	2D Transform => transform-origin(X, Y)
+	3D Transform => transform-origin(X, Y, Z)
+	X - Axis
+	- CSS Unit [px, em, rem]
+	- %
+	- Keyword
+	-- Left = 0%
+	-- Center = 50%
+	-- Right = 100%
+	Y - Axis
+	- CSS Unit [px, em, rem]
+	- %
+	- Keyword
+	-- Top = 0%
+	-- Center = 50%
+	-- Bottom = 100%
+*/
+
+.shape {
+	margin: 200px auto;
+	width: 200px;
+	height: 200px;
+	background-color: #219ebc;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+
+.shape .origin {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: #0077b6;
+	top: 0%;
+	left: 0%;
+	z-index: 1;
+}
+
+.shape div {
+	width: 180px;
+	height: 180px;
+	background-color: #8ecae6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: bold;
+	font-size: 30px;
+	transition: 10s;
+	transform-origin: 0 0;
+}
+
+.shape div:hover {
+	transform: rotate(360deg);
+	border: 1px solid white;
+}
