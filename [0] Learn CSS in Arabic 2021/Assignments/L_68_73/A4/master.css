@@ -1,0 +1,47 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #001219;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	height: 667px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+div {
+	width: 200px;
+	height: 200px;
+	background-color: #669bbc;
+	border-bottom: 7px solid black;
+	position: relative;
+}
+
+div::before {
+	content: "";
+	position: absolute;
+	background-color: black;
+	border-left: 4px solid white;
+	border-bottom: 4px solid white;
+	width: calc(141.42px - 4px);
+	height: calc(141.42px - 4px);
+	transform-origin: 0 0;
+	transform: rotate(-45deg);
+}
+
+div::after {
+	content: "ElZero";
+	position: absolute;
+	left: 5px;
+	bottom: 0px;
+	transition: 2s;
+}

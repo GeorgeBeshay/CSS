@@ -1,0 +1,69 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #403d39;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	height: 667px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	perspective: 500px;
+}
+
+div {
+	width: 200px;
+	height: 200px;
+	background-color: #252422;
+	position: relative;
+	transform-style: preserve-3d;
+	transform-origin: left center;
+	transition: transform 4s;
+	border: 5px solid white;
+}
+
+.vertical {
+	transform-origin: center bottom;
+}
+
+div::after,
+div::before {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	backface-visibility: hidden;
+}
+
+div::before {
+	content: "Front";
+	background-color: #662e9b;
+}
+
+div::after {
+	content: "Back";
+	background-color: #eb5e28;
+	transform: rotateY(180deg);
+}
+
+.vertical::after {
+	transform: rotateX(180deg);
+}
+
+div:hover {
+	transform: translateX(100%) rotateY(180deg);
+}
+
+.vertical:hover {
+	transform: translateY(-100%) rotateX(180deg);
+}
