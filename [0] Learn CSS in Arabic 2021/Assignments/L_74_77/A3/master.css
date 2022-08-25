@@ -1,0 +1,41 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #252422;
+	color: white;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+span {
+	display: block;
+	width: 200px;
+	height: 200px;
+	background-color: #403d39;
+	border-radius: 50%;
+	border: 15px solid #eb5e28;
+	border-top-color: transparent;
+	animation-name: spin;
+	animation-direction: reverse;
+	animation-duration: 1s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+
+span:hover {
+	animation-play-state: paused;
+}
+
+@keyframes spin {
+	100% {
+		transform: rotate(360deg);
+	}
+}

@@ -1,0 +1,88 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #003049;
+	color: white;
+	height: 100vh;
+	/* display: flex;
+	justify-content: center;
+	align-items: center; */
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+div {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 50%;
+	border: 15px solid #d62828;
+	border-bottom-color: transparent;
+	animation-name: spin;
+	animation-duration: 1s;
+	/* animation-delay: 1s; */
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-play-state: paused;
+}
+
+div::before {
+	z-index: -1;
+	content: "";
+	position: absolute;
+	width: 215px;
+	height: 215px;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 50%;
+	border: 15px solid #0a9396;
+	border-bottom-color: transparent;
+	animation-name: spin;
+	animation-duration: 2s;
+	/* animation-delay: 0.5s; */
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-play-state: paused;
+}
+
+div::after {
+	content: "";
+	width: 260px;
+	height: 260px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 50%;
+	border: 15px solid #fb6f92;
+	border-bottom-color: transparent;
+	z-index: -2;
+	animation-name: spin;
+	animation-duration: 3s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-play-state: paused;
+}
+
+div:hover,
+div:hover::after,
+div:hover::before {
+	animation-play-state: running;
+}
+
+@keyframes spin {
+	0% {
+		transform: translate(-50%, -50%) rotate(0deg);
+	}
+	100% {
+		transform: translate(-50%, -50%) rotate(360deg);
+	}
+}
