@@ -121,7 +121,7 @@ body {
 	border-radius: 5px;
 	top: -70px;
 	right: -120px;
-	animation: E1 4s linear 0s infinite forwards;
+	animation: E1 4s linear 3s infinite forwards;
 }
 
 .box2 {
@@ -133,7 +133,7 @@ body {
 	border-radius: 5px;
 	top: 450px;
 	right: -120px;
-	animation: E2 3s linear 4s infinite;
+	animation: E2 3s linear 0s infinite;
 }
 
 @keyframes E1 {
