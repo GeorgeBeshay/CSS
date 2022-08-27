@@ -1,0 +1,86 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #22223b;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/*
+	CSS Selectors
+	-------------- Part One --------------
+	- *
+	- Element => [p, div, h2]
+	- Element Other Element => div p
+	- .class-name
+	- #id-name
+	- .parent .child	(Searching For "child" Class inside "parent" Class)
+	- .class-one.class-two	(Searching For Element Containing both classes at the same time)
+	- .class-name div, .class-name p
+	- Element.class-name
+	- .class-name > .child		(Searching For Direct Child !! No Element inbetween)
+	-------------- Part Two --------------
+	- Element + Other Element => [div + p]
+	- Element ~ Other Element => [p ~ div]
+	- [Attribute]
+	- Element[Attribute]
+	- [Attribute = Value]
+	- Element[Attribute = Value] => input[type="submit]
+	- [Attribute ~= Value] => Contains A Word
+	- [Attribute *= Value] => Contains A String
+	- [Attribute ^= Value] => Start With A String
+	-------------- Part Three --------------
+	- :frist-child
+	- :last-child
+	- :first-of-type
+	- :last-of-type
+	- :only-child
+	- :only-of-type
+	-------------- Part Four --------------
+	- :not(Selector)
+	- :nth-child(n)
+	- :nth-last-child(n)
+	- :nth-of-type(n)
+	- :nth-last-of-type(n)
+*/
+
+/* p:not(.special) {
+	color: #43bccd;
+} */
+
+/* p:nth-child(2) {
+	color: #43bccd;
+} */
+
+/* p:nth-child(even) {
+	color: #43bccd;
+} */
+
+/* p:nth-child(odd){
+	color: #b5e48c;
+} */
+
+/* p:nth-last-child(3) {
+	color: #43bccd;
+} */
+
+/* div:nth-last-child(7){
+	color: #43bccd;
+} */
+
+/* p:nth-of-type(3){
+	color: #43bccd;
+} */
+
+/* div:nth-of-type(2){
+	color: #43bccd;
+} */
+
+div:nth-last-of-type(1) {
+	color: #43bccd;
+}

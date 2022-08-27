@@ -1,0 +1,50 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #22223b;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/*
+	CSS Selectors
+	- *
+	- Element => [p, div, h2]
+	- Element Other Element => div p
+	- .class-name
+	- #id-name
+	- .parent .child	(Searching For "child" Class inside "parent" Class)
+	- .class-one.class-two	(Searching For Element Containing both classes at the same time)
+	- .class-name div, .class-name p
+	- Element.class-name
+	- .class-name > .child		(Searching For Direct Child !! No Element inbetween)
+*/
+
+/* .parent .child {
+	margin: 100px auto;
+	width: 200px;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #9a8c98;
+	font-weight: bold;
+	font-size: 2vw;
+} */
+
+.parent > .child {
+	margin: 100px auto;
+	width: 200px;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #9a8c98;
+	font-weight: bold;
+	font-size: 2vw;
+}

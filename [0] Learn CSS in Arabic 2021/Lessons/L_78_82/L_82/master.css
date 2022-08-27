@@ -1,0 +1,167 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #22223b;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/*
+	CSS Selectors
+	-------------- Part One --------------
+	- *
+	- Element => [p, div, h2]
+	- Element Other Element => div p
+	- .class-name
+	- #id-name
+	- .parent .child	(Searching For "child" Class inside "parent" Class)
+	- .class-one.class-two	(Searching For Element Containing both classes at the same time)
+	- .class-name div, .class-name p
+	- Element.class-name
+	- .class-name > .child		(Searching For Direct Child !! No Element inbetween)
+	-------------- Part Two --------------
+	- Element + Other Element => [div + p]
+	- Element ~ Other Element => [p ~ div]
+	- [Attribute]
+	- Element[Attribute]
+	- [Attribute = Value]
+	- Element[Attribute = Value] => input[type="submit]
+	- [Attribute ~= Value] => Contains A Word
+	- [Attribute *= Value] => Contains A String
+	- [Attribute ^= Value] => Start With A String
+	-------------- Part Three --------------
+	- :frist-child
+	- :last-child
+	- :first-of-type
+	- :last-of-type
+	- :only-child
+	- :only-of-type
+	-------------- Part Four --------------
+	- :not(Selector)
+	- :nth-child(n)
+	- :nth-last-child(n)
+	- :nth-of-type(n)
+	- :nth-last-of-type(n)
+	-------------- Part Five --------------
+	- :root
+	- :checked
+	- :empty
+	- :disabled
+	- :required
+	- :focus
+	- ::selection
+	- ::placeholder
+*/
+
+form {
+	width: 400px;
+	height: 600px;
+	margin: 20px auto;
+	display: grid;
+	padding: 10px;
+	grid-template-columns: 5fr 1fr;
+	grid-template-rows: 2fr 1fr 2fr 4fr 4fr 4fr;
+	grid-template-areas:
+		"A1 T"
+		"A2 A2"
+		"A3 A3"
+		"A4 A4"
+		"A5 A5"
+		"A6 A6";
+	gap: 10px 5px;
+	border: 5px solid white;
+	box-shadow: 10px 10px grey;
+}
+
+div:nth-last-of-type(2) {
+	grid-area: A5;
+}
+
+div:last-of-type {
+	grid-area: A6;
+}
+
+input:first-of-type {
+	grid-area: A1;
+}
+
+input:nth-of-type(2) {
+	grid-area: A2;
+}
+
+div:first-of-type {
+	grid-area: A3;
+}
+
+div:nth-of-type(2) {
+	grid-area: A4;
+}
+
+span {
+	grid-area: T;
+}
+
+label {
+	display: block;
+}
+
+input[type="checkbox"] {
+	margin-right: 10px;
+	width: 25px;
+	height: 25px;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #ea3546;
+	border-radius: 5px;
+}
+
+input[type="checkbox"]:checked + label {
+	color: #0d1b2a;
+}
+
+div:empty {
+	background-color: greenyellow;
+}
+
+input:disabled {
+	background-color: #fe7f2d;
+	color: white;
+}
+
+input:required + span::before {
+	content: "*";
+	color: red;
+}
+
+input[type="text"] {
+	padding: 10px;
+	transition: 0.5s;
+}
+
+input[type="text"]:first-of-type {
+	margin: 10px;
+}
+
+input:focus {
+	border: 2px solid #1982c4;
+	margin: 2px;
+}
+
+div::selection {
+	background-color: black;
+}
+
+::placeholder {
+	color: #0a0908;
+	font-size: 1.5vw;
+	font-weight: bold;
+}
