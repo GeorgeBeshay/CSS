@@ -15,7 +15,7 @@
 - ***Course Plan >*** [@ElZero.org Course Plan](https://elzero.org/study/css-2021-study-plan/)
 ***
 ## Course Progress 
-![88%](https://progress-bar.dev/88?title=Progress)
+![93%](https://progress-bar.dev/93?title=Progress)
 ***
 ## Course Tracking
 ### Lessons & Assignments Uploaded
@@ -57,6 +57,8 @@ Lessons From XX To YY ✅ <br>
 [Lessons](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_68_73) - [Assignments Solutions](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Assignments/L_68_73)
 - Lessons From 74 To 77 ✅ <br>
 [Lessons](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_74_77) - [Assignments Solutions](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Assignments/L_74_77)
+- Lessons From 78 To 82 ✅ <br>
+[Lessons](https://github.com/GeorgeBeshay/CSS/tree/main/%5B0%5D%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82) - <!-- [Assignments Solutions]() -->
 *** 
 ## <p align="center"> Direct Links To Preview The Final Webpages Created In Each Lesson & Assignment </p>
 ### <p align="center"> Lessons </p>
@@ -136,11 +138,11 @@ Lessons From XX To YY ✅ <br>
 [Lesson (75) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_74_77/L_75/index.html) |
 [Lesson (76) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_74_77/L_76/index.html) |
 [Lesson (77) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_74_77/L_77/index.html) |
-<!-- [Lesson (78) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_78/index.html) |-->
-<!-- [Lesson (79) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_79/index.html) |-->
-<!-- [Lesson (80) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_80/index.html) |-->
-<!-- [Lesson (81) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_81/index.html) |-->
-<!-- [Lesson (82) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_82/index.html) |-->
+[Lesson (78) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_78/index.html) |
+[Lesson (79) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_79/index.html) |
+[Lesson (80) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_80/index.html) |
+[Lesson (81) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_81/index.html) |
+[Lesson (82) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_78_82/L_82/index.html) |
 <!-- [Lesson (83) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_83_85/L_83/index.html) |-->
 <!-- [Lesson (84) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_83_85/L_84/index.html) |-->
 <!-- [Lesson (85) ](https://georgebeshay.github.io/CSS/[0]%20Learn%20CSS%20in%20Arabic%202021/Lessons/L_83_85/L_85/index.html) |-->
