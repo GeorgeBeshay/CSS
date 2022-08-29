@@ -1,0 +1,42 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #14213d;
+	color: black;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.parent {
+	display: flex;
+	width: 1000px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin: 20px auto;
+}
+
+.parent > div {
+	background-color: #fca311;
+	text-align: center;
+	font-size: 20px;
+	width: 230px;
+}
+
+@media print {
+	.parent > div:first-child {
+		display: none;
+	}
+	.parent > div {
+		font-size: 100px;
+	}
+}
+
+@media (min-width: 800px) and (max-width: 1100px) {
+	.parent > div {
+		background-color: red;
+	}
+}

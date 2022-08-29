@@ -1,0 +1,51 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #14213d;
+	color: black;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.parent {
+	display: flex;
+	width: 1000px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin: 20px auto;
+}
+
+.parent > div {
+	background-color: #fca311;
+	text-align: center;
+	font-size: 20px;
+	width: 230px;
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+}
+
+/* Small Screens */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* Medium Screens */
+@media (min-width: 992px) {
+}
+
+/* Large Screens */
+@media (min-width: 1200px) {
+}
+
+/* X Large Screens */
+@media (min-width: 1400px) {
+}
+
+/* Custom */
+@media (max-width: 1199px) {
+}

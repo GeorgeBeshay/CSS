@@ -1,0 +1,58 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #14213d;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.parent {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.parent > div {
+	padding: 20px;
+	background-color: #fca311;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	width: 100%;
+	margin-bottom: calc(20px / 3);
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+}
+
+/* Small Screens */
+@media (min-width: 768px) and (max-width: 991px) {
+	.parent > div {
+		width: calc(50% - 10px);
+	}
+}
+
+/* Medium Screens */
+@media (min-width: 992px) {
+	.parent > div {
+		width: calc(25% - 10px);
+	}
+}
+
+/* Large Screens */
+@media (min-width: 1200px) {
+}
+
+/* X Large Screens */
+@media (min-width: 1400px) {
+}
+
+/* Custom */
+@media (max-width: 1199px) {
+}
