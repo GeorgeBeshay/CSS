@@ -1,0 +1,43 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #000814;
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+div {
+	background-color: cornflowerblue;
+	margin-top: 20px;
+	padding: 10px;
+}
+
+.center-flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.center-position {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.circle-100 {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+.circle-200 {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}

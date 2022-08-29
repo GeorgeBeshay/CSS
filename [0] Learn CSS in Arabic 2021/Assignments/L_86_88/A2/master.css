@@ -1,0 +1,53 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #000814;
+	color: white;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 400px;
+	height: 130px;
+	background-color: crimson;
+	position: relative;
+}
+
+.arrow::before {
+	content: "";
+	position: absolute;
+	border: 20px solid transparent;
+}
+
+.arrow.top::before {
+	border-bottom-color: crimson;
+	top: -37px;
+}
+
+.arrow.right::before {
+	border-left-color: crimson;
+	right: -37px;
+}
+
+.arrow.bottom::before {
+	border-top-color: crimson;
+	bottom: -37px;
+}
+
+.arrow.left::before {
+	border-right-color: crimson;
+	left: -37px;
+}
