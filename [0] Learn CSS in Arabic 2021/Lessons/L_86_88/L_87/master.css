@@ -1,0 +1,46 @@
+body {
+	font-family: "El Messiri", sans-serif;
+	font-size: 1.5vw;
+	background-color: #000814;
+	color: white;
+	margin: revert;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/*
+	CSS Global Values
+	- Inherit
+	- Initial
+	- Unset
+	--- If Inherit => 	inherit
+	--- If Not =>		Initial
+	- Revert CSS Level [4]
+	- All
+*/
+
+div {
+	background-color: crimson;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 20px;
+	margin: 5px;
+	border: 2px solid white;
+}
+
+button {
+	width: 100px;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 17px;
+	/* color: unset; */
+	/* color: inherit; */
+	/* border: unset; */
+	/* border: initial; */
+}
